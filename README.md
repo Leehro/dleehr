@@ -1,4 +1,4 @@
 dleehr
 ======
 
-Go to github.com/dleehr
+I have consolidated my GitHub repos at [dleehr](https://github.com/dleehr).
